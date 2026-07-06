@@ -1,4 +1,4 @@
-# 영상 기반 실시간 숫자 인식 파이프라인 (YOLO Classification + cuDNN 추론)
+# 영상 기반 숫자 인식 파이프라인 (YOLO Classification + cuDNN 추론)
 
 영상(mp4)에서 프레임 단위로 숫자를 실시간 인식하고, NVIDIA cuDNN 기반 CNN으로 최종 분류/벤치마크까지 수행하는 파이프라인입니다.
 
